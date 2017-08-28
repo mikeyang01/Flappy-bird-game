@@ -1,0 +1,257 @@
+{
+  "project_info": {
+    "project_number": "991584658116",
+    "firebase_url": "https://firechat-532d3.firebaseio.com",
+    "project_id": "firechat-532d3",
+    "storage_bucket": "firechat-532d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991584658116:android:22d76935dc8bf743",
+        "android_client_info": {
+          "package_name": "com.firebase.androidchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991584658116-nru8afd7csacj7412a557dpe8bp91kj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM5M4iWzfqRHhnFPhAmFjiDhtf8I5WqsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991584658116:android:721ba4bb6f040ebd",
+        "android_client_info": {
+          "package_name": "firebase.neyc.yth.link_twitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991584658116-37dnmeqg75vit01fcampqj3n2fdpa2eg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebase.neyc.yth.link_twitter",
+            "certificate_hash": "bd098a38c928093baaf741fc8e1e318e03a00ccb"
+          }
+        },
+        {
+          "client_id": "991584658116-nru8afd7csacj7412a557dpe8bp91kj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM5M4iWzfqRHhnFPhAmFjiDhtf8I5WqsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991584658116-p1475clif1h0p640n5aklqkcm7di5l0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "yth.-209-FB-Size"
+              }
+            },
+            {
+              "client_id": "991584658116-nru8afd7csacj7412a557dpe8bp91kj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991584658116:android:79be5eaf1b16e7e1",
+        "android_client_info": {
+          "package_name": "gcm.neyc.ytianhui.gcm1004"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991584658116-nru8afd7csacj7412a557dpe8bp91kj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM5M4iWzfqRHhnFPhAmFjiDhtf8I5WqsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991584658116:android:74da8e7d457b65b1",
+        "android_client_info": {
+          "package_name": "crash.neyc.ytianhui.crashreport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991584658116-nopfo0ph6ahgpr7rob532ens4khleghf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "crash.neyc.ytianhui.crashreport",
+            "certificate_hash": "bd098a38c928093baaf741fc8e1e318e03a00ccb"
+          }
+        },
+        {
+          "client_id": "991584658116-nru8afd7csacj7412a557dpe8bp91kj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM5M4iWzfqRHhnFPhAmFjiDhtf8I5WqsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991584658116-p1475clif1h0p640n5aklqkcm7di5l0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "yth.-209-FB-Size"
+              }
+            },
+            {
+              "client_id": "991584658116-nru8afd7csacj7412a557dpe8bp91kj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991584658116:android:cc0df54cc334d7ef",
+        "android_client_info": {
+          "package_name": "com.yth.unity.order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991584658116-nru8afd7csacj7412a557dpe8bp91kj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM5M4iWzfqRHhnFPhAmFjiDhtf8I5WqsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991584658116:android:8cbeed2a0037af2f",
+        "android_client_info": {
+          "package_name": "two.game.neyc.yth.flyergame2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991584658116-icat9bch1q9flusi927r0agpgf94ce46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "two.game.neyc.yth.flyergame2",
+            "certificate_hash": "d39fb866ae9db2e1834dd8363dba7930f8b9a475"
+          }
+        },
+        {
+          "client_id": "991584658116-nru8afd7csacj7412a557dpe8bp91kj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM5M4iWzfqRHhnFPhAmFjiDhtf8I5WqsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991584658116-p1475clif1h0p640n5aklqkcm7di5l0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "yth.-209-FB-Size"
+              }
+            },
+            {
+              "client_id": "991584658116-nru8afd7csacj7412a557dpe8bp91kj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
