@@ -1,1 +1,1 @@
-A basic game looks like Flappy bird 
+A Simple and basic Android game looks like Flappy bird 
